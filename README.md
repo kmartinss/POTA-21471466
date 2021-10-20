@@ -5,7 +5,10 @@ Consiste em criar um algoritmo de busca binária através de um arquivo de dados
 
 ## Integrantes
 Henrique Albuquerque Ferreira | RA: 21461619
+
 José Antonio lucena marques | RA: 21454701
+
 Karine Martins dos Santos | RA: 21471466
+
 Matheus Soares georgetti | RA: 21224791
 
